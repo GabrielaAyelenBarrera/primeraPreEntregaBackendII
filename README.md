@@ -119,7 +119,7 @@ Descripción: Devuelve la información del usuario autenticado usando el token J
 🧪 Pruebas con Postman
 
 Configuración
-Asegúrate de que el servidor está corriendo (node src/app.js).
+Asegúrate de que el servidor está corriendo (npm run dev).
 Configura Postman para realizar pruebas en los endpoints de registro, inicio de sesión y usuario actual.
 1. Probar Registro de Usuario
 Método: POST
